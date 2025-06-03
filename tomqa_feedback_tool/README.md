@@ -7,6 +7,10 @@
 > - Disclosure of any project-related information is forbidden
 > - For internal use by project members only
 
+## Tool Screenshot
+
+![ToM QA Verifier Screenshot](data/tom_qa_verifier.png)
+
 ## I. Project Background and Task Objectives
 
 - Construct a high-quality "Theory of Mind (ToM)" multimodal question-answering dataset to advance AI's ability to understand and reason about human mental states. The annotated data will be used to evaluate multimodal large models, supporting AI progress in social cognition and emotional understanding.

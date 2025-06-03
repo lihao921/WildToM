@@ -173,3 +173,7 @@ python scripts/download_videos.py
 - 版本：1.0.0
 - 最后更新：[当前日期]
 - 支持平台：Windows、macOS、Linux 
+
+## Tool Screenshot
+
+![Video Alignment Tool Screenshot](../tomqa_feedback_tool/data/video_verifier.png)
