@@ -9,7 +9,7 @@
 
 ## Tool Screenshot
 
-![ToM QA Verifier Screenshot](data/tom_qa_verifier.png)
+![ToM QA Verifier Screenshot](tom_qa_verifier.png)
 
 ## I. Project Background and Task Objectives
 
