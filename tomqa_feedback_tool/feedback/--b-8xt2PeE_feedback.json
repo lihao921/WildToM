@@ -1,0 +1,349 @@
+{
+  "video_id": "--b-8xt2PeE",
+  "scenes": {
+    "scene_1.json": {
+      "intention_questions": [
+        {
+          "question": "What does Gerald Olin believe Mike Enslin intends by standing up and leaning forward while questioning the details about David Hyde?",
+          "character": "Gerald Olin",
+          "target_character": "Mike Enslin",
+          "moment": "when Mike Enslin stands up and leans forward during his probing question",
+          "correct_answer": "Gerald believes Mike intends to challenge his authority and provoke a reaction by adopting a confrontational posture.",
+          "modality_evidence": "Mike's rising and leaning forward contrasts sharply with Gerald's steady stance, signaling a deliberate challenge rather than a respectful gesture.",
+          "mental_state_evidence": "I see Mike’s posture as a power move to unsettle me and assert dominance, so I interpret his standing and leaning forward as an attempt to provoke me.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 18:32:09"
+        },
+        {
+          "question": "What does Gerald Olin intend to achieve by maintaining a steady, serious gaze while responding to Mike Enslin's challenge?",
+          "character": "Gerald Olin",
+          "target_character": "Mike Enslin",
+          "moment": "during the initial exchange about the number of deaths in room 1408",
+          "correct_answer": "He intends to assert his authority and demonstrate control over the situation by appearing unwavering and confident.",
+          "modality_evidence": "Gerald's unwavering gaze and serious expression contrast with Mike's more dynamic posture, signaling a deliberate effort to project authority without overt aggression.",
+          "mental_state_evidence": "As Gerald Olin, I want to control this exchange and remind Mike that I hold the real knowledge and power here, so I keep my gaze steady and serious to avoid giving him any opening.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 18:33:33"
+        }
+      ],
+      "desire_questions": [
+        {
+          "question": "What does Gerald Olin think Mike Enslin desires by questioning the details of the last guest's death with a probing tone?",
+          "character": "Gerald Olin",
+          "target_character": "Mike Enslin",
+          "moment": "when Mike Enslin challenges Gerald’s statement about David Hyde",
+          "correct_answer": "Gerald thinks Mike desires to undermine Gerald’s credibility and assert his own superiority.",
+          "modality_evidence": "Mike’s leaning forward and standing up combined with his probing tone suggest an aggressive attempt to challenge Gerald rather than a simple question.",
+          "mental_state_evidence": "I interpret Mike’s behavior as a deliberate challenge to my authority, so I believe he wants to weaken my credibility and elevate himself.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 18:32:38"
+        }
+      ],
+      "belief_questions": [
+        {
+          "question": "What does Mike Enslin think Gerald Olin believes about Mike's knowledge of the deaths in room 1408?",
+          "character": "Mike Enslin",
+          "target_character": "Gerald Olin",
+          "moment": "immediately after Gerald states he forbade guests from checking into 1408",
+          "correct_answer": "Mike thinks Gerald believes Mike is well-informed and potentially challenging his authority.",
+          "modality_evidence": "Gerald’s steady gaze and serious tone suggest he sees Mike as a serious interlocutor, not a fool.",
+          "mental_state_evidence": "I interpret Gerald’s demeanor as him sizing me up as a worthy challenger who might expose flaws in his narrative.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 18:34:37"
+        },
+        {
+          "question": "What does Gerald Olin think Mike Enslin believes about Gerald’s authority in the situation?",
+          "character": "Gerald Olin",
+          "target_character": "Mike Enslin",
+          "moment": "when Mike Enslin challenges Gerald’s statement about forbidding guests",
+          "correct_answer": "Gerald thinks Mike believes Gerald’s authority is questionable and worth challenging.",
+          "modality_evidence": "Mike’s confrontational stance and tone suggest skepticism toward Gerald’s authority.",
+          "mental_state_evidence": "I sense Mike doubts my authority, which fuels my desire to assert dominance through confident facts.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 18:34:31"
+        }
+      ]
+    },
+    "scene_2.json": {
+      "intention_questions": [
+        {
+          "question": "What does Gerald Olin intend by standing and holding Mike Enslin's gaze during their exchange?",
+          "character": "Gerald Olin",
+          "target_character": "Mike Enslin",
+          "moment": "while initiating verbal acknowledgment in the interaction",
+          "correct_answer": "To assert dominance and unsettle Mike Enslin by demonstrating control over the situation",
+          "modality_evidence": "Gerald's upright posture, steady gaze, and raised eyebrow paired with a guarded tone suggest a subtle power play rather than warmth or dismissal.",
+          "mental_state_evidence": "I intend to remind Mike Enslin that despite his efforts, I remain the more authoritative figure here, using body language and tone to assert control without overt confrontation.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 18:41:42"
+        }
+      ],
+      "knowledge_questions": [
+        {
+          "question": "What does Gerald Olin think Mike Enslin knows about Gerald's true attitude behind the guarded praise?",
+          "character": "Gerald Olin",
+          "target_character": "Mike Enslin",
+          "moment": "immediately after Gerald's raised eyebrow comment",
+          "correct_answer": "Mike suspects Gerald is withholding full approval and intends to challenge him further",
+          "modality_evidence": "Mike's defensive reaction implies he perceives the subtle challenge beneath the words.",
+          "mental_state_evidence": "I am confident Mike recognizes my guarded tone as a strategic move and is preparing to respond accordingly.",
+          "status": "kept",
+          "feedback": "并非真心赞赏和认同",
+          "processed_time": "2025-05-25 18:42:14"
+        }
+      ],
+      "desire_questions": [
+        {
+          "question": "What does Gerald Olin desire by using a tone that is approving yet guarded when speaking to Mike Enslin?",
+          "character": "Gerald Olin",
+          "target_character": "Mike Enslin",
+          "moment": "during the verbal exchange when Gerald acknowledges Mike's work",
+          "correct_answer": "To make Mike Enslin feel recognized but still uncertain about his standing",
+          "modality_evidence": "The raised eyebrow and guarded tone create a nuanced message—neither full praise nor outright rejection.",
+          "mental_state_evidence": "I want Mike to know I see his work but also to feel that he hasn't yet reached my level, keeping him on edge.",
+          "status": "kept",
+          "feedback": "他并不想make Mike Enslin feel recognized，而是保持镇静和气势来突出自己的优越",
+          "processed_time": "2025-05-25 18:43:45"
+        }
+      ],
+      "belief_questions": [
+        {
+          "question": "What does Gerald Olin believe Mike Enslin thinks about Gerald's raised eyebrow and guarded tone?",
+          "character": "Gerald Olin",
+          "target_character": "Mike Enslin",
+          "moment": "immediately after Gerald's comment",
+          "correct_answer": "Mike thinks Gerald is skeptical and not fully convinced by his work",
+          "modality_evidence": "Mike's defensive verbal response and serious expression indicate he perceives doubt.",
+          "mental_state_evidence": "I believe Mike interprets my subtle cues as a sign that I question his findings and am ready to challenge him further.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 18:44:04"
+        }
+      ],
+      "emotion_questions": [
+        {
+          "question": "What complex emotion might Mike Enslin be experiencing despite his calm exterior during this exchange?",
+          "character": "Mike Enslin",
+          "target_character": "Mike Enslin",
+          "moment": "while responding to Gerald Olin's guarded approval",
+          "correct_answer": "A mix of determination and guarded defensiveness to protect his professional pride",
+          "modality_evidence": "Mike’s serious tone and steady gaze paired with subtle body tension suggest underlying defensiveness masked by professional composure.",
+          "mental_state_evidence": "I feel the need to protect my credibility and respond firmly, even as I internally brace against Gerald’s subtle dominance.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 18:44:21"
+        }
+      ]
+    },
+    "scene_3.json": {
+      "intention_questions": [
+        {
+          "question": "What does Mike intend by narrating Gerald Olin’s recital with a raised eyebrow and a slightly ironic tone?",
+          "character": "Mike Enslin",
+          "target_character": "Gerald Olin",
+          "moment": "when Mike narrates Gerald’s recital with a raised eyebrow",
+          "correct_answer": "Mike intends to subtly undermine Gerald’s authority by framing him as a detached bookkeeper.",
+          "modality_evidence": "Mike’s raised eyebrow combined with a low, edged tone suggests a subtle challenge rather than praise or empathy.",
+          "mental_state_evidence": "I want to assert dominance by casting Gerald as cold and mechanical, so I use irony and body language to convey that.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 18:45:53"
+        },
+        {
+          "question": "What does Mike think Gerald intends by responding with 'Well, you think you’re clever, don’t you?' after Mike’s narration?",
+          "character": "Mike Enslin",
+          "target_character": "Gerald Olin",
+          "moment": "immediately after Mike’s ironic narration",
+          "correct_answer": "Mike thinks Gerald intends to humble him and reassert his own dominance in the exchange.",
+          "modality_evidence": "Gerald’s dry tone, slight smirk, and direct eye contact convey a challenge rather than warmth or concession.",
+          "mental_state_evidence": "I read Gerald’s words and tone as a calculated move to put me in my place and maintain control.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 18:47:45"
+        },
+        {
+          "question": "What is Gerald Olin's intention when he challenges Mike Enslin by saying, 'Well, you think you're clever, don't you?'",
+          "character": "Gerald Olin",
+          "target_character": "Mike Enslin",
+          "moment": "immediately after Mike corrects the list of tragic events",
+          "correct_answer": "Gerald intends to humble Mike by exposing his overconfidence.",
+          "modality_evidence": "Gerald's dry tone paired with the pointed question and steady eye contact signal a subtle power move.",
+          "mental_state_evidence": "I want to reassert dominance and remind Mike that his challenge is premature and somewhat arrogant.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 18:54:05"
+        }
+      ],
+      "knowledge_questions": [
+        {
+          "question": "What does Mike think Gerald knows about Mike’s understanding of the hotel’s tragic history when Mike corrects him?",
+          "character": "Mike Enslin",
+          "target_character": "Gerald Olin",
+          "moment": "immediately after Mike’s correction",
+          "correct_answer": "Mike thinks Gerald knows Mike is well-informed and not easily fooled.",
+          "modality_evidence": "Gerald’s calm but challenging response suggests he recognizes Mike’s knowledge but is wary of being challenged.",
+          "mental_state_evidence": "I sense Gerald’s guarded stance means he acknowledges I’m knowledgeable and a worthy opponent.",
+          "status": "kept",
+          "feedback": "Mike corrects him不是纠正他，而是接着他的话继续说，表示自己也知情",
+          "processed_time": "2025-05-25 18:53:56"
+        }
+      ],
+      "belief_questions": [
+        {
+          "question": "What does Mike Enslin think Gerald Olin believes about Mike’s grasp of the hotel's dark history when Mike interjects with corrections?",
+          "character": "Mike Enslin",
+          "target_character": "Gerald Olin",
+          "moment": "when Mike corrects the list with additional details",
+          "correct_answer": "Mike thinks Gerald believes Mike is trying to prove intellectual superiority and challenge his authority.",
+          "modality_evidence": "Gerald’s slight smirk and the sarcastic tone in 'Well, you think you’re clever, don’t you?' suggest he interprets Mike’s interjection as a challenge.",
+          "mental_state_evidence": "I notice Gerald’s tone shift and smirk when I correct him, so I infer he perceives my move as a challenge to his authority.",
+          "status": "kept",
+          "feedback": "错误：when Mike corrects the list，是接着他的话继续说； ",
+          "processed_time": "2025-05-25 18:58:51"
+        }
+      ]
+    },
+    "scene_4.json": {
+      "desire_questions": [
+        {
+          "question": "What does Mike Enslin think Gerald Olin desires by delivering the information about the 22 natural deaths with a smug voice?",
+          "character": "Mike Enslin",
+          "target_character": "Gerald Olin",
+          "moment": "while Gerald Olin leans back and speaks condescendingly",
+          "correct_answer": "To undermine Mike Enslin’s credibility and assert dominance in their rivalry",
+          "modality_evidence": "Olin’s body language and tone clearly show smugness and a desire to dominate rather than cooperate.",
+          "mental_state_evidence": "I believed he was trying to humble me and gain psychological upper hand by revealing my blind spot.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 18:59:49"
+        },
+        {
+          "question": "What does Gerald Olin desire by revealing the fact about the 22 natural deaths to Enslin?",
+          "character": "Gerald Olin",
+          "target_character": "Mike Enslin",
+          "moment": "while confronting Enslin with new information during their exchange",
+          "correct_answer": "To make Enslin doubt his own findings and feel intellectually inferior",
+          "modality_evidence": "Olin’s smug tone and body language indicate a desire to unsettle rather than help Enslin.",
+          "mental_state_evidence": "I want Enslin to question his competence and feel less confident, gaining psychological upper hand.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 19:12:54"
+        }
+      ],
+      "intention_questions": [
+        {
+          "question": "What does Gerald Olin intend by leaning back and speaking with a condescending tone?",
+          "character": "Gerald Olin",
+          "target_character": "Mike Enslin",
+          "moment": "while questioning Enslin about the 22 natural deaths in 1408",
+          "correct_answer": "To assert intellectual dominance and provoke doubt in Enslin's investigation",
+          "modality_evidence": "Olin's narrowed eyes, adjusting tie, and leaning back with a dripping condescending tone indicate calculated dominance rather than genuine inquiry.",
+          "mental_state_evidence": "I want to unsettle Enslin by showing I hold information he lacks, reinforcing my superiority in this exchange.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 19:00:06"
+        },
+        {
+          "question": "What does Gerald Olin think Enslin intends by calmly stating 'I know the game' with a hand gesture?",
+          "character": "Gerald Olin",
+          "target_character": "Mike Enslin",
+          "moment": "when Enslin asserts his awareness during their face-to-face confrontation",
+          "correct_answer": "To show defiance and refusal to be intimidated by Olin's condescension",
+          "modality_evidence": "Enslin's calm tone paired with a confident hand gesture suggests a deliberate show of strength rather than submission.",
+          "mental_state_evidence": "I interpret his gesture and tone as a challenge to my authority, meaning he wants to hold his ground despite my pressure.",
+          "status": "deleted",
+          "feedback": "",
+          "processed_time": "2025-05-25 19:40:18"
+        }
+      ],
+      "belief_questions": [
+        {
+          "question": "What does Mike Enslin think Gerald Olin believes about Mike’s reaction to the 22 natural deaths?",
+          "character": "Mike Enslin",
+          "target_character": "Gerald Olin",
+          "moment": "when Gerald Olin notices Mike’s furrowed brow and subtle head shake",
+          "correct_answer": "Olin believes Mike is surprised and unsettled by this fact, weakening his confidence",
+          "modality_evidence": "Olin’s smug posture and tone suggest he interprets Mike’s subtle cues as signs of vulnerability.",
+          "mental_state_evidence": "I thought he was reading my surprise as a crack in my armor and was ready to exploit it.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 19:12:29"
+        }
+      ]
+    },
+    "scene_5.json": {
+      "intention_questions": [
+        {
+          "question": "What does Gerald Olin intend by smiling slightly and leaning forward while delivering the statistic?",
+          "character": "Gerald Olin",
+          "target_character": "Mike Enslin",
+          "moment": "while stating the number of deaths",
+          "correct_answer": "To assert intellectual dominance and unsettle Enslin by highlighting his lack of knowledge",
+          "modality_evidence": "The smug smile combined with leaning forward suggests a controlled display of superiority rather than empathy or collaboration.",
+          "mental_state_evidence": "I want to remind Enslin that I have superior information and control the narrative, so I use subtle body language to reinforce this without overt confrontation.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 19:13:08"
+        },
+        {
+          "question": "What does Mike think Gerald Olin intends by delivering the statistic with a smug demeanor?",
+          "character": "Mike Enslin",
+          "target_character": "Gerald Olin",
+          "moment": "while Olin delivers the statistic and smiles smugly",
+          "correct_answer": "Mike thinks Olin intends to assert dominance and humiliate him by exposing gaps in his knowledge.",
+          "modality_evidence": "Olin’s confident posture, hand gestures, and smile indicate a power play rather than cooperation.",
+          "mental_state_evidence": "I interpret Olin’s behavior as a deliberate attempt to undermine me and gain psychological advantage.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 19:15:23"
+        }
+      ],
+      "belief_questions": [
+        {
+          "question": "What does Gerald Olin think Mike Enslin believes about Gerald’s knowledge of the deaths after hearing the statistic?",
+          "character": "Gerald Olin",
+          "target_character": "Mike Enslin",
+          "moment": "immediately after Gerald states the number",
+          "correct_answer": "Enslin believes Gerald has privileged access to information Enslin lacks",
+          "modality_evidence": "Enslin’s quiet repetition and attentive posture indicate he accepts Gerald’s authority on the matter.",
+          "mental_state_evidence": "I sense that Enslin is recalibrating his view of me as someone with superior insight.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 19:14:29"
+        },
+        {
+          "question": "What does Mike Enslin think Gerald Olin believes about Mike’s knowledge of the deaths when Olin delivers the statistic with a smug smile?",
+          "character": "Mike Enslin",
+          "target_character": "Gerald Olin",
+          "moment": "while Gerald Olin leans forward and smiles smugly delivering the statistic",
+          "correct_answer": "Mike thinks Olin believes Mike is unaware of this key information and is enjoying the upper hand.",
+          "modality_evidence": "Olin’s smug smile, forward lean, and confident hand gesture signal dominance and a belief that Mike is caught off guard.",
+          "mental_state_evidence": "I sense that Olin is deliberately flaunting this information to unsettle me and assert control over the conversation.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 19:16:08"
+        }
+      ],
+      "knowledge_questions": [
+        {
+          "question": "What does Mike think Gerald Olin knows about Mike’s awareness of the deaths and media coverage?",
+          "character": "Mike Enslin",
+          "target_character": "Gerald Olin",
+          "moment": "while Olin delivers the statistic and comments on newspapers",
+          "correct_answer": "Mike thinks Olin knows Mike is unaware of the deaths due to media silence and exploits this gap.",
+          "modality_evidence": "Olin’s condescending tone and confident presentation imply he knows Mike is caught off guard.",
+          "mental_state_evidence": "I suspect Olin is capitalizing on my ignorance of the media’s silence to assert intellectual superiority.",
+          "status": "kept",
+          "feedback": "",
+          "processed_time": "2025-05-25 19:15:48"
+        }
+      ]
+    }
+  }
+}

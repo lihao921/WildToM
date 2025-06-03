@@ -1,0 +1,9 @@
+# 忽略敏感信息
+video_alignment_tool/src/credentials.json
+video_alignment_tool/src/token.pickle
+
+# 可选：Python 项目通用忽略项
+__pycache__/
+*.pyc
+*.log
+.env

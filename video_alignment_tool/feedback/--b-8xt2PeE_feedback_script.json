@@ -1,0 +1,133 @@
+{
+  "title": "Video Script",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "timestamp": "00:00:00 - 00:00:06",
+      "description": "Inside a dimly lit, upscale office, an older man with dark skin, a graying beard, and a dark suit with a yellow tie sits behind an ornate desk, exuding stern authority. Across from him stands a younger man with medium skin, dark hair, and a dark green suit jacket, who listens intently.",
+      "interactions": [
+        "Gerald Olin: 'Yes, four. After the last one, I forbade any guests from checking into 1408 ever again.' He speaks with a serious, focused expression, his gaze unwavering.",
+        "Mike Enslin: 'The last one was David Hyde, orthodontist, manic depressive. Slit his wrist, did a little self-surgery, turned himself into a eunuch, right?' The younger man leans forward, his tone probing but respectful."
+      ],
+      "interactions_feedback": [
+        {
+          "index": 0,
+          "content": "Gerald Olin: 'Yes, four. After the last one, I forbade any guests from checking into 1408 ever again.' He speaks with a serious, focused expression, his gaze unwavering.",
+          "feedback": "333"
+        },
+        {
+          "index": 1,
+          "content": "Mike Enslin: 'The last one was David Hyde, orthodontist, manic depressive. Slit his wrist, did a little self-surgery, turned himself into a eunuch, right?' The younger man leans forward, his tone probing but respectful.",
+          "feedback": "12111133"
+        }
+      ],
+      "notes": "333"
+    },
+    {
+      "scene_number": 2,
+      "timestamp": "00:00:06 - 00:00:15",
+      "description": "The older man remains seated, holding the younger man's gaze. The younger man appears slightly more earnest, his posture attentive.",
+      "interactions": [
+        "Gerald Olin: 'Yes. I see you've done your homework.' He acknowledges with a slight nod, his tone both approving and guarded.",
+        "Mike Enslin: 'Well, we're professionals, too.' He offers a faint, competitive smile, asserting his own credentials."
+      ]
+    },
+    {
+      "scene_number": 3,
+      "timestamp": "00:00:15 - 00:00:34",
+      "description": "Both men stand, facing each other in the office. The tension is palpable as they maintain eye contact. The camera pans as the two men walk slowly through the office, surrounded by bookshelves and antique décor. The younger man holds a notepad or small recorder, his demeanor shifting from confident to slightly uneasy.",
+      "interactions": [
+        "Gerald Olin: 'Grievously, in its 95-year existence, the hotel has seen seven jumpers, four overdoses, five hangings, three mutilations...' He recites the list with a dry, almost rehearsed tone, gesturing slightly with his hands.",
+        "Mike Enslin: 'Three mutilations, two stranglings.' The younger man interjects, demonstrating his own knowledge, his expression neutral but intent.",
+        "Mike Enslin: 'General Manager Gerald Olin is well-versed in the hotel's tragic history, dryly reciting the docket of carnage like a bookkeeper discussing his ledger.' He speaks almost as if narrating, his tone edged with irony.",
+        "Gerald Olin: 'Well, you think you're clever, don't you? I know the game.' Olin's voice is low, tinged with annoyance and challenge."
+      ],
+      "interactions_feedback": [
+        {
+          "index": 0,
+          "content": "Gerald Olin: 'Grievously, in its 95-year existence, the hotel has seen seven jumpers, four overdoses, five hangings, three mutilations...' He recites the list with a dry, almost rehearsed tone, gesturing slightly with his hands.",
+          "feedback": ""
+        },
+        {
+          "index": 1,
+          "content": "Mike Enslin: 'Three mutilations, two stranglings.' The younger man interjects, demonstrating his own knowledge, his expression neutral but intent.",
+          "feedback": "141"
+        },
+        {
+          "index": 2,
+          "content": "Mike Enslin: 'General Manager Gerald Olin is well-versed in the hotel's tragic history, dryly reciting the docket of carnage like a bookkeeper discussing his ledger.' He speaks almost as if narrating, his tone edged with irony.",
+          "feedback": ""
+        },
+        {
+          "index": 3,
+          "content": "Gerald Olin: 'Well, you think you're clever, don't you? I know the game.' Olin's voice is low, tinged with annoyance and challenge.",
+          "feedback": ""
+        }
+      ]
+    },
+    {
+      "scene_number": 4,
+      "timestamp": "00:00:34 - 00:00:46",
+      "description": "They pause, facing each other near the desk. Olin adjusts his tie, his eyes narrowing, while Enslin leans forward, undeterred. Olin resumes his seat at the desk, his tone shifting from confrontational to almost smug. Enslin sits across from him, attentive. Enslin furrows his brow, surprised by the new information.",
+      "interactions": [
+        "Mike Enslin: 'I know the game.' He states calmly, refusing to be intimidated.",
+        "Gerald Olin: 'Well, during your investigation, did you discover the 22 natural deaths that have occurred in 1408?' He leans forward, voice dripping with condescension.",
+        "Mike Enslin: 'Natural deaths?'"
+      ]
+    },
+    {
+      "scene_number": 5,
+      "timestamp": "00:00:46 - 00:00:58",
+      "description": "Olin sits back with a smug smile, clearly enjoying the upper hand. Enslin listens, his confidence shaken. Olin gestures with his hand, delivering the final statistic. Enslin sits quietly, absorbing the gravity of the conversation.",
+      "interactions": [
+        "Gerald Olin: 'Ah. Didn't find out about them because the newspapers don’t print anything about them.'",
+        "Gerald Olin: 'All told, there have been 56 deaths in 1408.'",
+        "Mike Enslin: 'Fifty-six.' He repeats softly, the number sinking in."
+      ]
+    }
+  ],
+  "speaker_mapping": [
+    {
+      "character_id": "Gerald Olin",
+      "character_name": "Gerald Olin",
+      "visual_description": "Older male, dark skin, graying beard, dark suit with white shirt and yellow/gold tie, exudes authority",
+      "audio_labels": "Speaker A",
+      "referenced_names": [
+        "Gerald Olin",
+        "General Manager",
+        "the man with the gold tie"
+      ]
+    },
+    {
+      "character_id": "Mike Enslin",
+      "character_name": "Mike Enslin",
+      "visual_description": "Younger male, medium skin, dark hair, dark green suit jacket with patterned shirt, earnest and competitive",
+      "audio_labels": "Speaker B",
+      "referenced_names": [
+        "Mike Enslin",
+        "the man in the green jacket"
+      ]
+    }
+  ],
+  "meta": {
+    "visual_file": "--b-8xt2PeE.json",
+    "visual_file_id": "--b-8xt2PeE",
+    "audio_file": "--b-8xt2PeE.json",
+    "audio_file_id": "--b-8xt2PeE",
+    "model": "gpt-4.1",
+    "provider": "openai_full",
+    "timestamp": "2025-05-15T23:35:01.983336",
+    "config": {
+      "temperature": 0.5,
+      "max_tokens": 4096,
+      "visual_dir": "step4_sorted_timestamp",
+      "audio_dir": "train_val",
+      "output_dir": "v5.1_stage1_alignment_qa_trainval"
+    },
+    "merged_scene_info": {
+      "original_scene_count": 5,
+      "target_scene_count": 5,
+      "final_scene_count": 5
+    }
+  }
+}
