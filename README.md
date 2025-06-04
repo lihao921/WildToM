@@ -15,21 +15,18 @@ WildToM captures Theory of Mind reasoning by simulating a character's inference 
 | Field                   | Description                                                                                  |
 |-------------------------|----------------------------------------------------------------------------------------------|
 | `qa_id`                 | Unique identifier with video ID, time index, from-character, mental state category, and ToM order. |
-| `q_type` / `question_type` | Mental state type: `belief`, `intention`, `desire`, `emotion`, or `knowledge`.           |
+| `q_type` | Mental state type: `belief`, `intention`, `desire`, `emotion`, or `knowledge`.           |
 | `order`                 | Reasoning order: `first-order`  or `second-order`.               |
-| `question`              | Natural language ToM question. Expressed in the third person, reflecting the from_character's inference about the target_character.            |
+| `question`              | Natural language ToM question.          |
 | `options`               | A dictionary of four multiple-choice options (keys: `A`, `B`, `C`, `D`).                    |
 | `correct_answer`        | Correct option key (e.g., `"A"`).                                                           |
-| `open_ended_answer`     | Free-form explanation of the reasoning from the character's perspective.                     |
-| `moment`                | Specific video moment the QA refers to (e.g., an action or expression).                     |
-| `target_character`      | The person whose mental state is being inferred by the from_character.                                             |
-| `from_character`        | The role who is doing the reasoning.                      |
+| `open_ended_answer`     | Free-form explanation of the reasoning from the from_character.                     |
+| `moment`                | Specific video moment the QA refers to.                     |
+| `from_character`        | The role who is doing the reasoning.     
+| `target_character`      | The person whose mental state is being inferred by the from_character.                                             |                 |
 | `from_character_identity` | Textual descriptor of the from_character (gender, appearance, clothing, etc.).             |
 | `modality_evidence`     | Description of multimodal cues supporting the inference (e.g., gaze, posture, facial expression). |
-| `mental_state_evidence` | Verbalized thought process from the from_character's internal monologue.                     |
-| `tom_score`             | A float rating (1.0–4.0) representing ToM complexity (e.g., false belief, social inference depth). |
-| `source_type`           | Whether the sample was human-written or model-generated.                                     |
-| `original_options`      | Raw option set before distractor reordering or polishing.                                   |
+| `mental_state_evidence` | Verbalized thought process from the from_character's internal monologue.                     |                                  |                                |
 | `speaker_mapping`       | Maps character IDs to their visual/audio descriptions and alias references. Useful for multimodal alignment. |
 
 ### Reasoning Categories
