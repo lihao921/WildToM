@@ -1,4 +1,4 @@
-# WildToM: Theory of Mind Benchmark
+# WildToM: Benchmarking Machine-Theory-of-Mind in the wild
 
 [![🤗 Dataset-Wild ToM](https://img.shields.io/badge/🤗%20Dataset-Wild%20ToM-yellow)](https://huggingface.co/datasets/county/WildToM)
 
