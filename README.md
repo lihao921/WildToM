@@ -1,4 +1,4 @@
-# WildToM: Benchmarking Machine-Theory-of-Mind in the wild
+# WildToM: Theory of Mind Benchmark
 
 [![🤗 Dataset-Wild ToM](https://img.shields.io/badge/🤗%20Dataset-Wild%20ToM-yellow)](https://huggingface.co/datasets/county/WildToM)
 
@@ -8,7 +8,7 @@ WildToM is a benchmark dataset for evaluating machine Theory of Mind (ToM) reaso
 ## Directory Structure
 - `video_alignment_tool/`: Tools for video scene alignment and annotation
 - `tomqa_feedback_tool/`: Tools for manual QA sample verification and refinement
-- `config/`: Final structured annotation data (JSON format)
+- `wild_tom_v0.1.json`: Final structured annotation data (JSON format)
 
 ## Data Format
 Each QA sample is a structured JSON object as follows:
