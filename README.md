@@ -1,5 +1,11 @@
 # WildToM: Theory of Mind Benchmark
 
+<p align="center">
+    <a href="https://huggingface.co/datasets/county/WildToM">
+        <img alt="Build" src="https://img.shields.io/badge/🤗 Dataset-Wild ToM-yellow">
+    </a>
+</p>
+
 ## Overview
 WildToM is a benchmark for evaluating machine Theory of Mind (ToM) reasoning in naturalistic social videos.
 
