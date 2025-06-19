@@ -49,12 +49,10 @@ Each reasoning question is grounded in a specific multimodal moment, ensuring th
 ## Original Video Source
 The original videos for this project are from the **Social-IQ 2.0** dataset, created by the MultiComp Lab at Carnegie Mellon University.
 
-### Video Retrieval Methods
-1. **Official Social-IQ Dataset**:
-   - Repository: [Social-IQ 2.0](https://github.com/cmu-multicomp-lab/social-iq-2.0)
-   - Follow their download instructions
-2. **Project-Specific Video Links**:
-   - [GoogleDrive Video Folder](https://drive.google.com/drive/folders/1RVZ1ZtdHi9Ob2nRFjtXdF3bWHXH3gUMs?usp=sharing)
+### Official Social-IQ Dataset
+- Repository: [Social-IQ 2.0](https://github.com/cmu-multicomp-lab/social-iq-2.0)
+- Follow their download instructions
+
 
 ## Citation
 ```bibtex
