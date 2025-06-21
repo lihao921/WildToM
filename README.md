@@ -1,6 +1,6 @@
 # WildToM: Theory of Mind Benchmark
 
-[![🤗 Dataset-Wild ToM](https://img.shields.io/badge/🤗%20Dataset-Wild%20ToM-yellow)](https://huggingface.co/datasets/county/WildToM)
+[![🤗 Dataset-WildToM](https://img.shields.io/badge/🤗%20Dataset-Wild%20ToM-yellow)](https://huggingface.co/datasets/county/WildToM)
 
 ## Project Overview
 WildToM is a benchmark dataset for evaluating machine Theory of Mind (ToM) reasoning in naturalistic social video scenarios. Each sample requires models to infer a character's mental state based on multimodal cues such as facial expression, body language, and speech.
